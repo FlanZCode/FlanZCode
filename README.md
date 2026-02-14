@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Enzo</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Passionate+Developer+from+Belgium;Systems+Engineering+Student;Creator+of+Synapse" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Passionate+Developer+from+Belgium;Learning+Systems+Engineering;Creator+of+Synapse" alt="Typing SVG" />
 </p>
 
 <p align="center">
