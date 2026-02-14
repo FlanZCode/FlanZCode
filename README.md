@@ -12,7 +12,7 @@
 
 ### 🛠 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,php,js,ts,express,nextjs,laravel,nodejs,npm,java,rust,c,cpp,linux,debian,docker,git,github,mariadb,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=html,css,php,js,ts,express,nextjs,laravel,nodejs,npm,java,rust,c,cpp,linux,debian,docker,git,github,mysql,mongodb" />
 </p>
 
 ---
