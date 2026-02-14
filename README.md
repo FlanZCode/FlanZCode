@@ -19,7 +19,7 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=FlanZCode&theme=dark&hide_border=true" alt="Streak" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlanZCode&layout=compact&theme=dark&hide_border=true" alt="Top Langs" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlanZCode&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Langs" />
 </p>
 
 ---
