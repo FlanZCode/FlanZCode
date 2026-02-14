@@ -24,7 +24,7 @@
 ---
 
 ### 🚀 Projects & Focus
-- 🔭 **Working on:** [Synapse](https://github.com/FlanZCode/synapse) - *A brief description of what it is.*
+- 🔭 **Working on:** [Synapse](https://github.com/FlanZCode/synapse)
 - 🌱 **Learning:** Systems Engineering & Low-level optimization.
 - 👯 **Collaborations:** Open for contributions on Synapse!
 - ⚡ **Fun Fact:** I wrote my first line of code at 9 years old.
